@@ -4,6 +4,7 @@ body{
     color: white;
     margin: 0;
     box-sizing: border-box;
+    right: 0;
 }
 
 .header-img img{
